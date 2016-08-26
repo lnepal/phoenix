@@ -36,15 +36,6 @@ $ php symfony demo
 If the `demo` command is not available, update your Symfony Installer to the
 most recent version executing the `symfony self-update` command.
 
-> **NOTE**
->
-> If you can't use the Symfony Installer, download and install the demo
-> application using Git and Composer:
->
->     $ git clone https://github.com/symfony/symfony-demo
->     $ cd symfony-demo/
->     $ composer install --no-interaction
-
 Usage
 -----
 
