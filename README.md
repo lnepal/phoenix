@@ -1,7 +1,7 @@
-Symfony Demo Application
+Phoenix Demo Application
 ========================
 
-The "Symfony Demo Application" is a reference application created to show how
+The "Phoenix Demo Application" is a reference application created to show how
 to develop Symfony applications following the recommended best practices.
 
 [![Build Status](https://travis-ci.org/symfony/symfony-demo.svg?branch=master)](https://travis-ci.org/symfony/symfony-demo)
@@ -52,7 +52,7 @@ There is no need to configure a virtual host in your web server to access the ap
 Just use the built-in web server:
 
 ```bash
-$ cd symfony-demo/
+$ cd phoenix/
 $ php bin/console server:run
 ```
 
